@@ -16,3 +16,7 @@ Unity製FPSの研究用ゲームです。マウスエイムの精度とスピー
 - C#
 - CSV出力機能
 - Git
+
+## プレイデモ（GIF）
+
+![Aim Demo](images/FPS_Aim_Training.gif)
